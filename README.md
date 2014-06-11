@@ -15,12 +15,23 @@
 
 ### 主要功能 ###
 
-- 快速的讓開發者將商品或圖片在網頁上版
-- 有多種不同大小方格提供快速設定
-- 類似win8輪播效果
+- 3種不同大小的磚
+- 淡入淡出動畫效果
+- 滑入光暈，增加注意度。
+- 隨畫面調整排版
+
 
 
 <a href="http://imgs.cc/image/IqEMmRy"><img src="http://s3.imgs.cc/img/IqEMmRyt.jpg"></a><br/>
 
+# 使用方法 #
+
+1. 下載box.css檔
+2. 在<head> 加上連結<link href='box.css' rel='stylesheet' type='text/css'>
+3. 加入以下程式碼<a href="" class="box235 boxAttribute "></a>
+4. 有box100、box235、box235-100三種樣式可以選擇。
+
+# 著作權說明 #
+完全為開方原始碼，只要註記製作者，可使用在商業或學習及任何用途
 
 

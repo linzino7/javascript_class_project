@@ -1,0 +1,44 @@
+.boxAttribute {
+	float: left;
+	display: block;
+	margin: 5px;
+	padding: 12px;
+	text-decoration: none; /* 拿掉超連結底線 */
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	opacity: 0.60;
+}
+.boxAttribute:hover {
+	float: left;
+	margin: 4px;
+	padding: 13px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 8px 3px rgba(78, 164, 255, 0.8);
+	opacity: 1;
+	transition: 0.5s;
+}
+.box100 {
+	background-color: #0072BC;
+	color: #FFFFFF;
+	width: 100px;
+	height: 100px;
+}
+.box235 {
+	background-color: #CD4900;
+	color: #FFFFFF;
+	width: 235px;
+	height: 230px;
+}
+.box235-100 {
+	background-color: #008641;
+	color: #FFFFFF;
+	width: 235px;
+	height: 100px;
+}
+.box100-235 {
+	background-color: #9AD9EA;
+	color: #FFFFFF;
+	width: 100px;
+	height: 235px;
+}
